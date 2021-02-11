@@ -1,0 +1,34 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    background: #8d2dd6;
+    
+    
+}   
+
+.app__header{
+    margin-top: 1%;
+    margin-left: 45%;
+    color: teal;
+    
+}
+.app__container {
+    margin-top: 4%;
+    margin-left: 40%;
+    margin-bottom: 10%;
+}
+
+.app__button {
+    margin-left: 45%;
+    margin-bottom: 5%;
+    height: 40px;
+    width: 200px;
+    background-color: teal;
+    border-color: transparent;
+
+}
+
+.reminder {
+    margin-right: 60%;
+    
+}
